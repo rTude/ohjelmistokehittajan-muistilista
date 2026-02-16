@@ -1,4 +1,4 @@
-# ohjelmisto kehittäjän muistilista
+# OHJELMISTOKEHITTÄJÄN MUISTILISTA
 
 ## KOODIN LAATU
 
